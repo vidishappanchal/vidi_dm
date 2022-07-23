@@ -1,2 +1,4 @@
 welcome to my digital marketing group
 this is first activity
+
+today, i will do practise about html tags, and how to create design in website.
